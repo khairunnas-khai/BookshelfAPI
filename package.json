@@ -1,0 +1,13 @@
+{
+  "name": "BookshelfAPI",
+  "version": "1.0.0",
+  "description": "Bookshelf API project for submission",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.0.0",
+    "nanoid": "^3.0.0"
+  }
+}
